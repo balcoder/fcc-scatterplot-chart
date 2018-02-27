@@ -1,0 +1,25 @@
+@import 'variables';
+@import 'utilities';
+
+body {
+  font-family: 'Work Sans', sans-serif;
+  background-image: url('http://dbwebworks.ie/sites/default/files/freecodecamp/images/andrej-lisakov-472519-unsplash.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+
+}
+
+#instructions {
+  text-align: center;
+  color: white;
+  font-size: 18px;
+  font-weight: 600;
+}
+
+#myChart {
+  margin:auto;
+  background-color: white;
+  opacity: 0.7;
+  max-width: 1000px;
+  max-height: auto;
+}
