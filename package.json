@@ -1,7 +1,7 @@
 {
-  "name": "npm-babel-prettier",
+  "name": "reeCodeCamp-scatterPlot",
   "version": "1.0.0",
-  "description": "FreeCodeCamp BarChart project using chart.js.",
+  "description": "FreeCodeCamp ScatterPlot project using chart.js.",
   "author": "Des Barrett",
   "license": "MIT",
   "repository": {
